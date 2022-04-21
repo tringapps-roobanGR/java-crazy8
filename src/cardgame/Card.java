@@ -43,7 +43,7 @@ public class Card {
 
     public Card(Suit suit, Rank rank) {
         this.suit = suit;
-        this.rank = rank;
+        this.rank = rank; 
     }
 
     public Suit getSuit() {
